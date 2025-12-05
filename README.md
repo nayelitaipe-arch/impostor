@@ -4,4 +4,4 @@
 #iniciar el temporizador 
 # discutir
 #votar
-#ver si ganaron los inocentes o el importor
+#ver si ganaron los inocentes o el impostor
